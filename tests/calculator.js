@@ -21,8 +21,6 @@ describe('demo calculator tests', function () {
         homepage.verifyResult('7');
 
 
-        browser.sleep(3000)
+        browser.sleep(2000)
     });
-
-
 });
